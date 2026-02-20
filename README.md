@@ -1,2 +1,27 @@
-# cv
-new cv and portfolio Commit
+# Analyste Fonctionnel & Documentation Technique
+
+#### Compétences Techniques: Confluence-Jira, WordPress,Prestashop, Html, JS, Css,Adobe InDesign, Photoshop, Illustrator...
+
+## Formation
+- Licence - Communication des Organisations | Com'Sup (_ juin 2004_)								       		
+- BTS | HEM Business & Engineering School (juillet 1998_)	 			        		
+- Baccalauréat | Ibn Al Yassamine (_Juin 1994_)
+
+## Expérience professionnelle
+**Responsable Documentation @ Reda agence (_juin 2024 à déc. 2025)**
+- Rédaction technique site web/e-commerce : Documentation complète des 
+étapes commerciales (user stories, diagrammes d'activité UML/Draw.io, 
+prototypage Figma, manuels d'utilisation).
+- Fluidification des échanges parties prenantes via specs structurées et 
+actionnables pour dev agile.
+
+**Rédacteur technique @ BMCI Banque, Casablanca (_December 2023 à févr. 2024)**
+- Rédaction technique pour campagne interne ESG : Documentation claire 
+sur l'implémentation des normes ESG dans la stratégie globale de la banque 
+BMCI.
+- Contenus spécialisés : Élaboration de guides techniques et interviews pour 
+vulgariser la charte RSE et l'initiative Twenty4Change auprès des équipes.
+- Script film institutionnel : Rédaction précise renforçant le positionnement 
+BMCI comme banque responsable, avec focus sur la gestion des risques 
+ESG.
+
