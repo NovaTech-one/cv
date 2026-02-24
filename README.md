@@ -1,12 +1,12 @@
-# Analyste Fonctionnel & Rédacteur Technique
+## Analyste Fonctionnel & Rédacteur Technique
 
-## FORMATION
+### FORMATION
 •	Licence - Communication des Organisations | Com'Sup (Juin 2004).
 	Ecole supérieure de communication et de publicité 							       		
 •	BTS | HEM Business & Engineering School (Juillet 1998).
 	Institut d'enseignement supérieur privé de management
 
-## EXPERIENCES PROFESSIONNELLES
+### EXPERIENCES PROFESSIONNELLES
 **Business analyst** - Mood Service -  Sept 2021- Dec 2025
 •	Spécification des exigences fonctionnelles et non- fonctionnelles à partir des BRD.
 •	Animation des workshops avec les équipes UI/UX en vue d’établir des interfaces graphiques.
@@ -15,7 +15,6 @@
 •	Présentation de l’application aux nouveaux arrivants et aux clients.
 
 	Figma, Html, CSS, Jira, Confluence, Microservice, springboot, Oracle
-
 
 **Business analyst **- Orange -  Juin 2016 - Juil 2021
 •	Spécification d’un middleware pour la consolidation des flux métiers.
@@ -43,15 +42,18 @@
 
 	MS-Office, Jira, Confluence, Excel, Photoshop, Illustrator, Visual Studio
 
-## FORMATION
+### FORMATION
  Maîtrise en Communication des organisations et Stratégie publicitaire - 2001 – 2004
 	    * Ecole supérieure de communication et de publicité 
 Hautes études de management (H.E.M) - 1996 – 1998
 	    * Institut d'enseignement supérieur privé de management
 
-## COMPETENCES
+### COMPETENCES
 * Langues :	Anglais : lu, écrit, parlé
 	        Français : lu, écrit, parlé	
 	        Arabe : lu, écrit, parlé		
 
-* Informatiques : services, Rest, Soap, Msproject - Power BI, MS-Office, Jira, Confluence, Excel, Photoshop, Illustrator, Visual Studio 
+* Informatiques :
+
+services, Rest, Soap, Msproject - Power BI, MS-Office, Jira, Confluence, Excel, Photoshop, Illustrator, Visual Studio.
+
