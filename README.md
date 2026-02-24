@@ -1,7 +1,5 @@
 # Analyste Fonctionnel & Rédacteur Technique
 
-## Compétences Techniques:## Confluence-Jira, Msproject - Power BI, WordPress, Prestashop, Figma,Html, JS, Css, Postgresql, Adobe InDesign, Photoshop, Illustrator...
-
 ## Formation
 •	Licence - Communication des Organisations | Com'Sup (Juin 2004).
 	Ecole supérieure de communication et de publicité 							       		
@@ -56,4 +54,4 @@ Hautes études de management (H.E.M) - 1996 – 1998
 	        Français : lu, écrit, parlé	
 	        Arabe : lu, écrit, parlé		
 
-* Informatiques : services, Rest, Soap, MS-Office, Jira, Confluence, Excel, Photoshop, Illustrator, Visual Studio 
+* Informatiques : services, Rest, Soap, Msproject - Power BI, MS-Office, Jira, Confluence, Excel, Photoshop, Illustrator, Visual Studio 
