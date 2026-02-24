@@ -1,27 +1,57 @@
-# Analyste Fonctionnel & Documentation Technique
+# Analyste Fonctionnel & Rédacteur Technique
 
-#### Compétences Techniques: Confluence-Jira, WordPress,Prestashop, Html, JS, Css,Adobe InDesign, Photoshop, Illustrator...
+## Compétences Techniques:## Confluence-Jira, Msproject - Power BI, WordPress, Prestashop, Figma,Html, JS, Css, Postgresql, Adobe InDesign, Photoshop, Illustrator...
 
 ## Formation
-- Licence-Communication des Organisations | Com'Sup juin 2004								       		
-- BTS | HEM Business & Engineering School juillet 1998	 			        		
-- Baccalauréat | Ibn Al Yassamine Juin 1994
+- Licence - Communication des Organisations | Com'Sup (_ juin 2004_)								       		
+- BTS | HEM Business & Engineering School
+ (juillet 1998_)	 			        		
+- Baccalauréat | Ibn Al Yassamine (_Juin 1994_)
 
-## Expérience professionnelle
-**Responsable Documentation @ Reda agence (juin 2024 à déc. 2025)**
-- Rédaction technique site web/e-commerce : Documentation complète des 
-étapes commerciales (user stories, diagrammes d'activité UML/Draw.io, 
-prototypage Figma, manuels d'utilisation).
-- Fluidification des échanges parties prenantes via specs structurées et 
-actionnables pour dev agile.
+## EXPERIENCES PROFESSIONNELLES
+**Business analyst - Mood Service - ** Sept 2021- Dec 2025
+•	Spécification des exigences fonctionnelles et non- fonctionnelles à partir des BRD.
+•	Animation des workshops avec les équipes UI/UX en vue d’établir des interfaces graphiques.
+•	Rédaction des Users Stories avec les développeurs et les testeurs.
+•	Rédaction des User Guides.
+•	Présentation de l’application aux nouveaux arrivants et aux clients.
+	Figma, Html, CSS, Jira, Confluence, Microservice, springboot, Oracle
 
-**Rédacteur technique @ BMCI Banque, Casablanca (December 2023 à févr. 2024)**
-- Rédaction technique pour campagne interne ESG : Documentation claire 
-sur l'implémentation des normes ESG dans la stratégie globale de la banque 
-BMCI.
-- Contenus spécialisés : Élaboration de guides techniques et interviews pour 
-vulgariser la charte RSE et l'initiative Twenty4Change auprès des équipes.
-- Script film institutionnel : Rédaction précise renforçant le positionnement 
-BMCI comme banque responsable, avec focus sur la gestion des risques 
-ESG.
 
+**Business analyst - Orange - ** Juin 2016 - Juil 2021
+•	Spécification d’un middleware pour la consolidation des flux métiers.
+•	Spécification des contrats d’interfaces d’échanges depuis les modules de facturation,       d’évaluation et de rémunération des commerciaux.
+•	Rédaction des exigences de besoins.
+•	Validation des démos et des plans de tests.
+•	Tests d’acceptance avec les différents Stake Holders.
+•	Définition des Dashboards -KPI destinés top management.  		
+    Jira, Confluence, Web services, Swagger-ui, Postgresql
+
+**Chef de projet MOA - Eiffage Construction - ** Janv 2010 – Dec 2015	
+•	Rédaction des cahiers de charges.
+•	Organisation d’ateliers techniques et fonctionnels avec les responsables du service.
+•	Validation avec le client des spécifications et formalités.
+•	Validation des tests d’acceptances avec les fournisseurs de service.
+    Msproject, Excel, Sharepoint, Webservice Soap, Soap-ui
+
+**Analyst fonctionnel - S.M.H TELECOMS - ** Dec 2004 – Oct 2009		
+•	Animation workshop avec le client final.
+•	Recueil des besoins fonctionnels et non-fonctionnels.
+•	Rédaction des spécifications produit SDD.
+•	Tests métiers.
+•	Test d’acceptance sur site client.
+
+	MS-Office, Jira, Confluence, Excel, Photoshop, Illustrator, Visual Studio
+
+## FORMATION
+* Maîtrise en Communication des organisations et Stratégie publicitaire - 2001 – 2004
+	    Ecole supérieure de communication et de publicité 
+* Hautes études de management (H.E.M) - 1996 – 1998
+	    Institut d'enseignement supérieur privé de management
+
+## COMPETENCES
+* Langues :	Anglais : lu, écrit, parlé
+	        Français : lu, écrit, parlé	
+	        Arabe : lu, écrit, parlé		
+
+* Informatiques: services, Rest, Soap, MS-Office, Jira, Confluence, Excel, Photoshop, Illustrator, Visual Studio 
