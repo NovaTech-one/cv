@@ -51,12 +51,12 @@ Hautes études de management (H.E.M) - 1996 – 1998
 
 ### COMPETENCES
 > 
-####  > Langues :  
-> - Anglais : lu, écrit, parlé
-> - Français : lu, écrit, parlé 
-> - Arabe : lu, écrit, parlé		
+####  * Langues :  
+> * - Anglais : lu, écrit, parlé
+> * - Français : lu, écrit, parlé 
+> * - Arabe : lu, écrit, parlé		
 >
-####  > Informatiques :
+####  * Informatiques :
 > - Services, Rest, Soap, Msproject - Power BI, MS-Office, 
 > - Jira, Confluence, Excel, Photoshop, Illustrator, Visual Studio.
 
