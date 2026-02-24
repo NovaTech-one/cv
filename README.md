@@ -55,5 +55,5 @@ Hautes études de management (H.E.M) - 1996 – 1998
 
 * Informatiques :
 
-  Services, Rest, Soap, Msproject - Power BI, MS-Office, Jira, Confluence, Excel, Photoshop, Illustrator, Visual Studio.
+> Services, Rest, Soap, Msproject - Power BI, MS-Office, Jira, Confluence, Excel, Photoshop, Illustrator, Visual Studio.
 
