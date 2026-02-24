@@ -2,7 +2,8 @@
 
 ### FORMATION
 •	Licence - Communication des Organisations | Com'Sup (Juin 2004).
-	Ecole supérieure de communication et de publicité 							       		
+	Ecole supérieure de communication et de publicité  
+	
 •	BTS | HEM Business & Engineering School (Juillet 1998).
 	Institut d'enseignement supérieur privé de management
 
