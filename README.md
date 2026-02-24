@@ -3,8 +3,8 @@
 ## Compétences Techniques:## Confluence-Jira, Msproject - Power BI, WordPress, Prestashop, Figma,Html, JS, Css, Postgresql, Adobe InDesign, Photoshop, Illustrator...
 
 ## Formation
-•	Licence - Communication des Organisations | Com'Sup (Juin 2004)								       		
-•	BTS | HEM Business & Engineering School (Juillet 1998)	 			        		
+•	Licence - Communication des Organisations | Com'Sup (Juin 2004).								       		
+•	BTS | HEM Business & Engineering School (Juillet 1998).	 			        		
 
 ## EXPERIENCES PROFESSIONNELLES
 **Business analyst** - Mood Service -  Sept 2021- Dec 2025
